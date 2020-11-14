@@ -6,3 +6,5 @@ H. Umari and S. Mukhopadhyay, “Autonomous robotic exploration based on multipl
 
 
 on a different Gazebo environment as a part of this school project. The set up code for the original project can be found here: https://github.com/hasauino/rrt_exploration
+
+Follow the instructions to set up the necessary packages from the original project and then push the two launch files found in the Launch folder here to the rrt_exploration_tutorials\launch folder in your ROS environment. Download the Gazebo world to the rrt_exploration_tutorials\launch\includes\worlds folder. 
